@@ -28,7 +28,7 @@ public class PlayerMovement : MonoBehaviour
 
 	[Header("Other")]
 	public bool IsFacingRight = true;
-	bool IsRunning;
+	public bool IsRunning;
 	// Start is called once before the first execution of Update after the MonoBehaviour is created
 	void Awake()
 	{
