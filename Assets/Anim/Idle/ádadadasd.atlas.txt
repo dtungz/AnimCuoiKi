@@ -1,0 +1,125 @@
+
+ádadadasd.png
+size: 1840,972
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body sau
+  rotate: false
+  xy: 2, 283
+  size: 410, 687
+  orig: 410, 687
+  offset: 0, 0
+  index: -1
+body truoc
+  rotate: false
+  xy: 414, 283
+  size: 410, 687
+  orig: 410, 687
+  offset: 0, 0
+  index: -1
+chan sau 1
+  rotate: true
+  xy: 2, 27
+  size: 254, 477
+  orig: 254, 477
+  offset: 0, 0
+  index: -1
+chan truoc 1
+  rotate: true
+  xy: 2, 27
+  size: 254, 477
+  orig: 254, 477
+  offset: 0, 0
+  index: -1
+chan sau 2
+  rotate: true
+  xy: 481, 44
+  size: 237, 589
+  orig: 237, 589
+  offset: 0, 0
+  index: -1
+chan sau 3
+  rotate: false
+  xy: 1609, 343
+  size: 208, 148
+  orig: 208, 148
+  offset: 0, 0
+  index: -1
+chan truoc 2
+  rotate: false
+  xy: 826, 381
+  size: 237, 589
+  orig: 237, 589
+  offset: 0, 0
+  index: -1
+chan truoc 3
+  rotate: false
+  xy: 1609, 193
+  size: 208, 148
+  orig: 208, 148
+  offset: 0, 0
+  index: -1
+co
+  rotate: false
+  xy: 1719, 31
+  size: 103, 160
+  orig: 103, 160
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 1065, 429
+  size: 442, 541
+  orig: 442, 541
+  offset: 0, 0
+  index: -1
+mu(sau)
+  rotate: true
+  xy: 1072, 2
+  size: 425, 535
+  orig: 425, 535
+  offset: 0, 0
+  index: -1
+tay ngoai 2
+  rotate: true
+  xy: 1509, 857
+  size: 113, 329
+  orig: 113, 329
+  offset: 0, 0
+  index: -1
+tay trong 2
+  rotate: true
+  xy: 1509, 857
+  size: 113, 329
+  orig: 113, 329
+  offset: 0, 0
+  index: -1
+tay ngoai 3
+  rotate: false
+  xy: 1609, 29
+  size: 108, 162
+  orig: 108, 162
+  offset: 0, 0
+  index: -1
+tay trong 3
+  rotate: false
+  xy: 1609, 29
+  size: 108, 162
+  orig: 108, 162
+  offset: 0, 0
+  index: -1
+tay ngoai1
+  rotate: true
+  xy: 1509, 493
+  size: 179, 325
+  orig: 179, 325
+  offset: 0, 0
+  index: -1
+tay trong
+  rotate: true
+  xy: 1509, 674
+  size: 181, 327
+  orig: 181, 327
+  offset: 0, 0
+  index: -1
