@@ -8,12 +8,15 @@ public class Player : MonoBehaviour
 	[SerializeField] GameObject Anim;
 	SkeletonAnimation anim;
 	PlayerMovement PM;
-	
+
+	Rigidbody2D rb;
+
 	// Start is called once before the first execution of Update after the MonoBehaviour is created
 	void Awake()
 	{
 		PM = GetComponent<PlayerMovement>();
 		anim = Anim.GetComponent<SkeletonAnimation>();
+		rb = GetComponent<Rigidbody2D>();
 	}
 
 	// Update is called once per frame
@@ -28,7 +31,7 @@ public class Player : MonoBehaviour
 
 	private void Animation()
 	{
-		if (PM.Movement == 0 && PM.isGrounded  && CurrAnim?.Animation.Name != "Idle")
+		if (PM.Movement == 0 && PM.isGrounded && CurrAnim?.Animation.Name != "Idle")
 		{
 			CurrAnim = anim.AnimationState.SetAnimation(0, "Idle", true);
 		}
@@ -36,22 +39,18 @@ public class Player : MonoBehaviour
 		{
 			CurrAnim = anim.AnimationState.SetAnimation(0, "walk4", true);
 		}
-		// else if (CurrAnim?.Animation.Name != "Jump2")
-		// {
-		// 	CurrAnim = anim.AnimationState.SetAnimation(0, "Jump2", true);
-		// }
-		// else if (CurrAnim?.Animation.Name != "Jump3")
-		// {
-		// 	CurrAnim = anim.AnimationState.SetAnimation(0, "Jump3", true);
-		// }
-		// else if (CurrAnim?.Animation.Name != "Jump4")
-		// {
-		// 	CurrAnim = anim.AnimationState.SetAnimation(0, "Jump4", true);
-		// }
-		// else if (CurrAnim?.Animation.Name != "Jump5")
-		// {
-		// 	CurrAnim = anim.AnimationState.SetAnimation(0, "Jump5", true);
-		// }
+		else if (!PM.isGrounded && rb.linearVelocityY >= 0.5f && CurrAnim?.Animation.Name != "Up")
+		{
+			CurrAnim = anim.AnimationState.SetAnimation(0, "Up", true);
+		}
+		else if (!PM.isGrounded && rb.linearVelocityY < 0.5f && rb.linearVelocityY > -0.5f && CurrAnim?.Animation.Name != "Up2")
+		{
+			CurrAnim = anim.AnimationState.SetAnimation(0, "Up2", true);
+		}
+		else if (!PM.isGrounded && rb.linearVelocityY <= -0.5f && CurrAnim?.Animation.Name != "Down")
+		{
+			CurrAnim = anim.AnimationState.SetAnimation(0, "Down", true);
+		}
 		else if (PM.Movement != 0 && PM.isGrounded && PM.IsRunning && CurrAnim?.Animation.Name != "Run")
 		{
 			CurrAnim = anim.AnimationState.SetAnimation(0, "Run", true);

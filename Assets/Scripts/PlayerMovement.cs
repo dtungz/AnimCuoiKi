@@ -70,7 +70,7 @@ public class PlayerMovement : MonoBehaviour
 		{
 			IsRunning = true;
 		}
-		else if (RunAction.WasReleasedThisFrame() || !isGrounded)
+		else if (RunAction.WasReleasedThisFrame())
 		{
 			IsRunning = false;
 		}
@@ -115,7 +115,7 @@ public class PlayerMovement : MonoBehaviour
 
 	private void Jump()
 	{
-		if (JumpBuffer)
+		if (JumpBuffer && IsRunning)
 		{
 			CurrJumpBufferTime -= Time.deltaTime;
 			if (CurrJumpBufferTime > 0 && (caiyoteTime > 0 || (isGrounded && JumpAction.IsPressed())))
