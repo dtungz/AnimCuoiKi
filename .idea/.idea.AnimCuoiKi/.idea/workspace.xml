@@ -6,148 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="97dafe76-4551-4a47-8ad4-83d6d7bab31f" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.AnimCuoiKi/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.AnimCuoiKi/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/2D Pixel Art Platformer Biome - American Forest.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/2D Pixel Art Platformer Biome - American Forest/Atlas.spriteatlas" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/2D Pixel Art Platformer Biome - American Forest/Atlas.spriteatlas.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/2D Pixel Art Platformer Biome - American Forest/Demo.unity" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/2D Pixel Art Platformer Biome - American Forest/Demo.unity.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/2D Pixel Art Platformer Biome - American Forest/ReadMe.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/2D Pixel Art Platformer Biome - American Forest/ReadMe.pdf.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/2D Pixel Art Platformer Biome - American Forest/Sprites.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/2D Pixel Art Platformer Biome - American Forest/Sprites.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/2D Pixel Art Platformer Biome - American Forest/Tilemap.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/2D Pixel Art Platformer Biome - American Forest/Tilemap/TileBackGround1.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/2D Pixel Art Platformer Biome - American Forest/Tilemap/TileBackGround1.asset.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/2D Pixel Art Platformer Biome - American Forest/Tilemap/TileBackGround10.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/2D Pixel Art Platformer Biome - American Forest/Tilemap/TileBackGround10.asset.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/2D Pixel Art Platformer Biome - American Forest/Tilemap/TileBackGround11.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/2D Pixel Art Platformer Biome - American Forest/Tilemap/TileBackGround11.asset.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/2D Pixel Art Platformer Biome - American Forest/Tilemap/TileBackGround12.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/2D Pixel Art Platformer Biome - American Forest/Tilemap/TileBackGround12.asset.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/2D Pixel Art Platformer Biome - American Forest/Tilemap/TileBackGround13.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/2D Pixel Art Platformer Biome - American Forest/Tilemap/TileBackGround13.asset.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/2D Pixel Art Platformer Biome - American Forest/Tilemap/TileBackGround2.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/2D Pixel Art Platformer Biome - American Forest/Tilemap/TileBackGround2.asset.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/2D Pixel Art Platformer Biome - American Forest/Tilemap/TileBackGround3.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/2D Pixel Art Platformer Biome - American Forest/Tilemap/TileBackGround3.asset.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/2D Pixel Art Platformer Biome - American Forest/Tilemap/TileBackGround4.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/2D Pixel Art Platformer Biome - American Forest/Tilemap/TileBackGround4.asset.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/2D Pixel Art Platformer Biome - American Forest/Tilemap/TileBackGround5.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/2D Pixel Art Platformer Biome - American Forest/Tilemap/TileBackGround5.asset.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/2D Pixel Art Platformer Biome - American Forest/Tilemap/TileBackGround6.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/2D Pixel Art Platformer Biome - American Forest/Tilemap/TileBackGround6.asset.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/2D Pixel Art Platformer Biome - American Forest/Tilemap/TileBackGround7.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/2D Pixel Art Platformer Biome - American Forest/Tilemap/TileBackGround7.asset.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/2D Pixel Art Platformer Biome - American Forest/Tilemap/TileBackGround8.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/2D Pixel Art Platformer Biome - American Forest/Tilemap/TileBackGround8.asset.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/2D Pixel Art Platformer Biome - American Forest/Tilemap/TileBackGround9.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/2D Pixel Art Platformer Biome - American Forest/Tilemap/TileBackGround9.asset.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/2D Pixel Art Platformer Biome - American Forest/Tilemap/TileFence1.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/2D Pixel Art Platformer Biome - American Forest/Tilemap/TileFence1.asset.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/2D Pixel Art Platformer Biome - American Forest/Tilemap/TileFence2.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/2D Pixel Art Platformer Biome - American Forest/Tilemap/TileFence2.asset.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/2D Pixel Art Platformer Biome - American Forest/Tilemap/TileFence3.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/2D Pixel Art Platformer Biome - American Forest/Tilemap/TileFence3.asset.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/2D Pixel Art Platformer Biome - American Forest/Tilemap/TileFence4.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/2D Pixel Art Platformer Biome - American Forest/Tilemap/TileFence4.asset.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/2D Pixel Art Platformer Biome - American Forest/Tilemap/TileFence5.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/2D Pixel Art Platformer Biome - American Forest/Tilemap/TileFence5.asset.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/2D Pixel Art Platformer Biome - American Forest/Tilemap/TileFence6.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/2D Pixel Art Platformer Biome - American Forest/Tilemap/TileFence6.asset.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/2D Pixel Art Platformer Biome - American Forest/Tilemap/TileGround1.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/2D Pixel Art Platformer Biome - American Forest/Tilemap/TileGround1.asset.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/2D Pixel Art Platformer Biome - American Forest/Tilemap/TileGround10.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/2D Pixel Art Platformer Biome - American Forest/Tilemap/TileGround10.asset.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/2D Pixel Art Platformer Biome - American Forest/Tilemap/TileGround11.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/2D Pixel Art Platformer Biome - American Forest/Tilemap/TileGround11.asset.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/2D Pixel Art Platformer Biome - American Forest/Tilemap/TileGround12.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/2D Pixel Art Platformer Biome - American Forest/Tilemap/TileGround12.asset.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/2D Pixel Art Platformer Biome - American Forest/Tilemap/TileGround13.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/2D Pixel Art Platformer Biome - American Forest/Tilemap/TileGround13.asset.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/2D Pixel Art Platformer Biome - American Forest/Tilemap/TileGround14.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/2D Pixel Art Platformer Biome - American Forest/Tilemap/TileGround14.asset.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/2D Pixel Art Platformer Biome - American Forest/Tilemap/TileGround15.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/2D Pixel Art Platformer Biome - American Forest/Tilemap/TileGround15.asset.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/2D Pixel Art Platformer Biome - American Forest/Tilemap/TileGround16.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/2D Pixel Art Platformer Biome - American Forest/Tilemap/TileGround16.asset.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/2D Pixel Art Platformer Biome - American Forest/Tilemap/TileGround17.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/2D Pixel Art Platformer Biome - American Forest/Tilemap/TileGround17.asset.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/2D Pixel Art Platformer Biome - American Forest/Tilemap/TileGround18.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/2D Pixel Art Platformer Biome - American Forest/Tilemap/TileGround18.asset.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/2D Pixel Art Platformer Biome - American Forest/Tilemap/TileGround19.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/2D Pixel Art Platformer Biome - American Forest/Tilemap/TileGround19.asset.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/2D Pixel Art Platformer Biome - American Forest/Tilemap/TileGround2.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/2D Pixel Art Platformer Biome - American Forest/Tilemap/TileGround2.asset.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/2D Pixel Art Platformer Biome - American Forest/Tilemap/TileGround20.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/2D Pixel Art Platformer Biome - American Forest/Tilemap/TileGround20.asset.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/2D Pixel Art Platformer Biome - American Forest/Tilemap/TileGround21.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/2D Pixel Art Platformer Biome - American Forest/Tilemap/TileGround21.asset.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/2D Pixel Art Platformer Biome - American Forest/Tilemap/TileGround22.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/2D Pixel Art Platformer Biome - American Forest/Tilemap/TileGround22.asset.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/2D Pixel Art Platformer Biome - American Forest/Tilemap/TileGround23.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/2D Pixel Art Platformer Biome - American Forest/Tilemap/TileGround23.asset.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/2D Pixel Art Platformer Biome - American Forest/Tilemap/TileGround24.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/2D Pixel Art Platformer Biome - American Forest/Tilemap/TileGround24.asset.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/2D Pixel Art Platformer Biome - American Forest/Tilemap/TileGround25.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/2D Pixel Art Platformer Biome - American Forest/Tilemap/TileGround25.asset.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/2D Pixel Art Platformer Biome - American Forest/Tilemap/TileGround26.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/2D Pixel Art Platformer Biome - American Forest/Tilemap/TileGround26.asset.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/2D Pixel Art Platformer Biome - American Forest/Tilemap/TileGround27.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/2D Pixel Art Platformer Biome - American Forest/Tilemap/TileGround27.asset.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/2D Pixel Art Platformer Biome - American Forest/Tilemap/TileGround28.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/2D Pixel Art Platformer Biome - American Forest/Tilemap/TileGround28.asset.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/2D Pixel Art Platformer Biome - American Forest/Tilemap/TileGround29.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/2D Pixel Art Platformer Biome - American Forest/Tilemap/TileGround29.asset.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/2D Pixel Art Platformer Biome - American Forest/Tilemap/TileGround3.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/2D Pixel Art Platformer Biome - American Forest/Tilemap/TileGround3.asset.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/2D Pixel Art Platformer Biome - American Forest/Tilemap/TileGround30.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/2D Pixel Art Platformer Biome - American Forest/Tilemap/TileGround30.asset.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/2D Pixel Art Platformer Biome - American Forest/Tilemap/TileGround31.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/2D Pixel Art Platformer Biome - American Forest/Tilemap/TileGround31.asset.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/2D Pixel Art Platformer Biome - American Forest/Tilemap/TileGround4.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/2D Pixel Art Platformer Biome - American Forest/Tilemap/TileGround4.asset.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/2D Pixel Art Platformer Biome - American Forest/Tilemap/TileGround5.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/2D Pixel Art Platformer Biome - American Forest/Tilemap/TileGround5.asset.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/2D Pixel Art Platformer Biome - American Forest/Tilemap/TileGround6.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/2D Pixel Art Platformer Biome - American Forest/Tilemap/TileGround6.asset.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/2D Pixel Art Platformer Biome - American Forest/Tilemap/TileGround7.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/2D Pixel Art Platformer Biome - American Forest/Tilemap/TileGround7.asset.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/2D Pixel Art Platformer Biome - American Forest/Tilemap/TileGround8.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/2D Pixel Art Platformer Biome - American Forest/Tilemap/TileGround8.asset.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/2D Pixel Art Platformer Biome - American Forest/Tilemap/TileGround9.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/2D Pixel Art Platformer Biome - American Forest/Tilemap/TileGround9.asset.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/2D Pixel Art Platformer Biome - American Forest/Tilemap/TilePlant1.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/2D Pixel Art Platformer Biome - American Forest/Tilemap/TilePlant1.asset.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/2D Pixel Art Platformer Biome - American Forest/Tilemap/TilePlant10.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/2D Pixel Art Platformer Biome - American Forest/Tilemap/TilePlant10.asset.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/2D Pixel Art Platformer Biome - American Forest/Tilemap/TilePlant11.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/2D Pixel Art Platformer Biome - American Forest/Tilemap/TilePlant11.asset.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/2D Pixel Art Platformer Biome - American Forest/Tilemap/TilePlant12.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/2D Pixel Art Platformer Biome - American Forest/Tilemap/TilePlant12.asset.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/2D Pixel Art Platformer Biome - American Forest/Tilemap/TilePlant2.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/2D Pixel Art Platformer Biome - American Forest/Tilemap/TilePlant2.asset.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/2D Pixel Art Platformer Biome - American Forest/Tilemap/TilePlant3.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/2D Pixel Art Platformer Biome - American Forest/Tilemap/TilePlant3.asset.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/2D Pixel Art Platformer Biome - American Forest/Tilemap/TilePlant4.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/2D Pixel Art Platformer Biome - American Forest/Tilemap/TilePlant4.asset.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/2D Pixel Art Platformer Biome - American Forest/Tilemap/TilePlant5.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/2D Pixel Art Platformer Biome - American Forest/Tilemap/TilePlant5.asset.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/2D Pixel Art Platformer Biome - American Forest/Tilemap/TilePlant6.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/2D Pixel Art Platformer Biome - American Forest/Tilemap/TilePlant6.asset.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/2D Pixel Art Platformer Biome - American Forest/Tilemap/TilePlant7.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/2D Pixel Art Platformer Biome - American Forest/Tilemap/TilePlant7.asset.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/2D Pixel Art Platformer Biome - American Forest/Tilemap/TilePlant8.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/2D Pixel Art Platformer Biome - American Forest/Tilemap/TilePlant8.asset.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/2D Pixel Art Platformer Biome - American Forest/Tilemap/TilePlant9.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/2D Pixel Art Platformer Biome - American Forest/Tilemap/TilePlant9.asset.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/2D Pixel Art Platformer Biome - American Forest/Tilemap/TileSpikes.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/2D Pixel Art Platformer Biome - American Forest/Tilemap/TileSpikes.asset.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/2D Pixel Art Platformer Biome - American Forest/Tilemap/Tilemap.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/2D Pixel Art Platformer Biome - American Forest/Tilemap/Tilemap.prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/PlayerMovement.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/PlayerMovement.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/manifest.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/packages-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/packages-lock.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -177,6 +35,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.sourceCode.C#",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -244,7 +103,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1766915700666</updated>
-      <workItem from="1766915703716" duration="1735000" />
+      <workItem from="1766915703716" duration="3676000" />
     </task>
     <servers />
   </component>
