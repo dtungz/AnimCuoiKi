@@ -115,7 +115,7 @@ public class PlayerMovement : MonoBehaviour
 
 	private void Jump()
 	{
-		if (JumpBuffer && IsRunning)
+		if (JumpBuffer)
 		{
 			CurrJumpBufferTime -= Time.deltaTime;
 			if (CurrJumpBufferTime > 0 && (caiyoteTime > 0 || (isGrounded && JumpAction.IsPressed())))
