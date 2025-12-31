@@ -41,5 +41,23 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: Sky
+    uniqueID: 2659321981
+    locked: 0
+  - name: Cloud
+    uniqueID: 3070939267
+    locked: 0
+  - name: Sea
+    uniqueID: 3607263543
+    locked: 0
+  - name: ForGround
+    uniqueID: 3219507521
+    locked: 0
+  - name: map
+    uniqueID: 249392955
+    locked: 0
+  - name: Player
+    uniqueID: 882825509
+    locked: 0
   m_RenderingLayers:
   - Default
